@@ -1,5 +1,5 @@
 # Desafio-Dataproc
-Criando um Ecossistema Hadoop Totalmente Gerenciado Google Cloud Dataproc - Desafio.
+Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc - Desafio.
 
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/guto-duque/Desafio-Dataproc/blob/main/LICENSE)
